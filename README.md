@@ -7,7 +7,7 @@ A simple real-time data pipeline that fetches trending YouTube videos using the 
 ## 🔧 Tools Used
 - Python
 - YouTube Data API
-- SQLite (SQL)
+- Mysql (SQL)
 - pandas
 - Streamlit
 - matplotlib
